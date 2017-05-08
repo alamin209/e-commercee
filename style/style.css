@@ -1,0 +1,149 @@
+body
+{	
+background-color:skyblue;	
+
+}
+.menubar{
+	width:1000px;
+	height:50px;
+	background-color:#D2691E;
+  	
+}
+#menu {                 
+padding:0;
+margin :0;
+Line-height:40px
+float:left;
+}
+#menu li {                     /*removing dot order*/ 
+	list-style:none;
+	display:inline;
+}
+#menu a {
+text-decoration:none;	
+color: #00FFFF;
+padding:8px;
+margin:5px;
+font-size:25px;
+}
+#menu a:hover
+
+{	/* it work like dropwon*/.
+color:#666;
+font-weight:bold;
+text-decoration:underline;
+}
+#form
+{
+text-align:right;
+padding-right:8px;
+}
+.main{
+width:1000px;
+height:auto;
+margin:auto:
+}
+.header{
+width:1000px;
+height:100px;
+margin:auto:
+}
+#logo{
+	
+	float:left;
+}
+	
+#bd
+{
+float:center;		
+		
+}
+.contain{
+	width:1000px;
+	margin:auto;
+	background-color:green;
+		
+}
+#contain_product{
+	width:800px;
+	
+	margin:auto;
+	float:right;
+	background-color:skyblue;
+	
+}
+#sidebar{
+	width:200px;
+	margin:auto;
+	float:left;
+	background-color:#ff0080z;
+		
+}
+#sidetitle
+{
+	background:black;
+	color:white;
+	font-size:20px;
+	font-family:arial;
+	padding:10px;
+}
+
+#title li {                     /*removing dot order*/ 
+	list-style:none;
+	display:inline;
+}
+#title a {
+text-decoration:none;	
+color: #00FFFF;
+padding:8px;
+margin:5px;
+font-size:25px;
+}
+#title a:hover
+
+{	/* it work like dropwon*/.
+color:#666;
+font-weight:bold;
+text-decoration:underline;
+}
+#product_detail
+{
+width;780px;
+text-align:center;
+margin-left:30px;
+margin-bottom:10px;		
+}
+
+#each_product
+{
+	float:left;
+	margin-left:20px;
+	padding:10px;
+	border:5px;	
+}
+#each_product img
+{
+	border:2px solid red;
+}
+
+.footer{
+	text-align:
+	background-color:yellow;
+    claer:both;		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
